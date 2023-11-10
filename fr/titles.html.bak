@@ -1,18 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
 
-<!-- Mirrored from www.grandfantasia-db.com/fr/missions by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 24 Apr 2023 08:10:36 GMT -->
+<!-- Mirrored from www.grandfantasia-db.com/fr/titles by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 24 Apr 2023 08:12:46 GMT -->
 <!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=UTF-8" /><!-- /Added by HTTrack -->
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Open Graph -->
-    <meta property="og:title" content="Grand Fantasia - Missions - GF Database" />
+    <meta property="og:title" content="Grand Fantasia - Titles - GF Database" />
  <meta property="og:type" content="web" />
- <meta property="og:url" content="missions.html" />
- <meta property="og:image" content="../images/card/card_2.jpg" />
+ <meta property="og:url" content="titles.html" />
+ <meta property="og:image" content="../images/card/card_1.jpg" />
  <meta property="og:description" content="Grand Fantasia Database provides information for all kinds of items." />    <meta name="description" content="Grand Fantasia Database provides information for all kinds of items.">
-    <title>Grand Fantasia - Missions - GF Database</title>
+    <title>Grand Fantasia - Titles - GF Database</title>
     <meta name="csrf-token" content="geB0s4FUrRFI6XAKZ7kx8IEbqszmWmZP1hkEVDrg">
     <meta name="baseUrl" content="../index.html">
     <!-- Bootstrap core CSS -->
@@ -22,7 +22,7 @@
     <link rel="stylesheet" href="../css/font-awesome.css">
     <!-- Custom styles for this template -->
     <link href="../css/offcanvas.css" rel="stylesheet">
-    <link rel="canonical" href="missions.html">
+    <link rel="canonical" href="titles.html">
     <!-- Google ADS -->
     <script async src="../../pagead2.googlesyndication.com/pagead/js/f4fc2.txt?client=ca-pub-6174406756238649"
      crossorigin="anonymous"></script>
@@ -206,11 +206,11 @@
                 <div class="btn-group pull-right ml-2" role="group" aria-label="Locale switcher">
                     <button id="localeDropDown" type="button" class="btn btn-sm btn-primary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">French</button>
                     <div class="dropdown-menu locale-dropdown-menu" aria-labelledby="localeDropDown">
-                                                                        <a class="dropdown-item btn-sm" href="../en/missions.html">English
+                                                                        <a class="dropdown-item btn-sm" href="../en/titles.html">English
                         </a>
-                                                                                                <a class="dropdown-item btn-sm" href="../es/missions.html">Spanish
+                                                                                                <a class="dropdown-item btn-sm" href="../es/titles.html">Spanish
                         </a>
-                                                                                                <a class="dropdown-item btn-sm" href="../pt/missions.html">Portuguese
+                                                                                                <a class="dropdown-item btn-sm" href="../pt/titles.html">Portuguese
                         </a>
                                                                                                     <a class="dropdown-item btn-sm" href="javascript:;">
                                 French
@@ -346,12 +346,12 @@
 	<div class="col-lg-9">
       <div class="panel card my-3 shadow-sm index-list">
           <div class="card-header main-panel-card-header">
-              <h4 class="my-0 font-weight-normal text-white">40 Missions</h4>
+              <h4 class="my-0 font-weight-normal text-white">Titles</h4>
           </div>
-          <div class="index-list-top">
+           <div class="index-list-top">
   <div class="row">
     <div class="col-md-6">
-      <form class="item_search" id="item_search_1" action="https://www.grandfantasia-db.com/fr/missions" accept-charset="UTF-8" method="get">
+      <form class="item_search" id="item_search_1" action="https://www.grandfantasia-db.com/fr/titles" accept-charset="UTF-8" method="get">
             
         <div class="input-group input-group-sm">
           <input class="form-control index-control" placeholder="Search" aria-label="Search" type="search" name="name" id="q_name" value="">
@@ -370,7 +370,7 @@
         <span class="btn-sort">Filters</span><i class="fa fa-filter"></i>
       </button>              
       <button type="button" class="btn btn-outline-gray btn-sm">
-        <a href="missions.html">Clear Filters</a><i class="fa fa-close"></i>
+        <a href="titles.html">Clear Filters</a><i class="fa fa-close"></i>
       </button>
     </div>
     <div class="modal fade" id="filtersModal" tabindex="-1" role="dialog" aria-labelledby="filtersModalLabel" aria-hidden="true" style="display: none;">
@@ -382,68 +382,45 @@
               <span aria-hidden="true">×</span>
             </button>
           </div>
-          <form class="item_search" id="item_search_2" action="https://www.grandfantasia-db.com/fr/missions" accept-charset="UTF-8" method="get">
+          <form class="item_search" id="item_search_2" action="https://www.grandfantasia-db.com/fr/titles" accept-charset="UTF-8" method="get">
                        
             
             <div class="modal-body filter-body">
               <div class="row m-0">
-                                                                <div class="form-group col-md-4">
-                <label for="starting-with">Fame</label>
-                <select name="fame" id="q_fame" class="form-control index-control form-control-sm">
+                                                                                                                                                <div class="form-group col-md-4">
+                <label for="starting-with">Starting with</label>
+                <select name="letter" id="q_letter" class="form-control index-control form-control-sm">
                     <option value="" label=" ">
-                                                            <option  value="3">Jale Steam Corporation</option>
-                                                                                <option  value="2">Ilya Senate</option>
-                                                                                <option  value="4">Elsaland</option>
-                                                                                <option  value="1">Kaslow Royal Family</option>
-                                                                                <option  value="5">Four Seas Trade Council</option>
-                                                                                <option  value="7">Deepfathom Expedition</option>
-                                                                                <option  value="11">Quill Publishing</option>
-                                                                                <option  value="12">Iron Stone Association</option>
-                                                                                <option  value="202">Jale Steam Machine Mercenaries</option>
-                                                                                <option  value="13">Magic Academy</option>
-                                                                                <option  value="14">Treasure Appraisal Committee</option>
-                                                                                <option  value="16">Saphael&#039;s Heart</option>
-                                                                                <option  value="18">Kaslow guild war</option>
-                                                                                <option  value="21">Mensajeros de Sprites</option>
-                                                                                <option  value="22">Bodor, Caballero del Pastizal</option>
-                                                                                <option  value="23">Alicia, Reina del Bosque</option>
-                                                                                <option  value="24">Ronto, Duque de las Arenas</option>
-                                                                                <option  value="28">Quill, Príncipe del Huracán</option>
-                                                                                <option  value="33">Miracle Springs Ginny</option>
-                                                                                <option  value="200">Kaslow Holy Royal Resistance</option>
-                                                                                <option  value="201">Ilya Cult Vengeance</option>
-                                                                                <option  value="17">Dark Sprite</option>
-                                                                                <option  value="6">Red Coconut Paradise</option>
-                                                                                <option  value="20">Guardian of Saphael</option>
-                                                                                <option  value="25">Smulca, Señor de las Montañas</option>
-                                                                                <option  value="26">Ewan, General de los Espíritus</option>
-                                                                                <option  value="27">Bahado, Rey del Mar de Sur</option>
-                                                                                <option  value="29">Mosunk, Anciano de la Serenidad</option>
-                                                                                <option  value="30">Jundo, Madre Eterna</option>
-                                                                                <option  value="31">Siropas, Rey del Inframundo</option>
-                                                                                <option  value="32">Princess of Frost Ilannia</option>
-                                                                                <option  value="203">Gas Association</option>
-                                                                                <option  value="204">Art and Culture Association</option>
+                                                            <option  value="A">A</option>
+                                                                                <option  value="B">B</option>
+                                                                                <option  value="C">C</option>
+                                                                                <option  value="D">D</option>
+                                                                                <option  value="E">E</option>
+                                                                                <option  value="F">F</option>
+                                                                                <option  value="G">G</option>
+                                                                                <option  value="H">H</option>
+                                                                                <option  value="I">I</option>
+                                                                                <option  value="J">J</option>
+                                                                                <option  value="K">K</option>
+                                                                                <option  value="L">L</option>
+                                                                                <option  value="M">M</option>
+                                                                                <option  value="N">N</option>
+                                                                                <option  value="O">O</option>
+                                                                                <option  value="P">P</option>
+                                                                                <option  value="Q">Q</option>
+                                                                                <option  value="R">R</option>
+                                                                                <option  value="S">S</option>
+                                                                                <option  value="T">T</option>
+                                                                                <option  value="U">U</option>
+                                                                                <option  value="V">V</option>
+                                                                                <option  value="W">W</option>
+                                                                                <option  value="X">X</option>
+                                                                                <option  value="Y">Y</option>
+                                                                                <option  value="Z">Z</option>
                                                         </select>
                 </div>
-                                                <div class="form-group col-md-4">
-                  <label for="q_max_lvl">Quest</label>
-                  <select name="quest_type" id="q_quest_type" class="form-control index-control form-control-sm">
-                    <option value="" label="">
-                    <option value="0" selected>All</option>
-                    <option value="1" >Repeatable</option>
-                  </select>
-                </div>
-                                                                                <div class="form-group col-md-4">
-                  <label for="q_max_lvl">Max Level</label>
-                  <input class="form-control index-control form-control-sm" type="search" name="max_lvl" id="q_max_lvl" value="">
-                </div>
-                                              </div>
+                              </div>
               <div class="row m-0">
-                                <div class="form-group col-md-4">
-                  <label for="q_min_lvl">Min Level</label>
-                 <input class="form-control index-control form-control-sm" type="search" name="min_lvl" id="q_min_lvl" value="">
-                </div>
                               </div>
             </div>
             <div class="modal-footer">
@@ -460,213 +437,374 @@
               <thead>
                   <tr>
                       <th scope="col" class="text-left">Name</th>
-                      <th scope="col">Level</th>
-                      <th scope="col">Type</th>
+                      <th scope="col">Ability</th>
+                      <th scope="col">Obtained</th>
                   </tr>
               </thead>
               <tbody>
                                     <tr>
-                      <td class="text-left"><a href="missions/1000--niv-06-entrainement-1.html">Niv. 06 Entraînement 1</a></td>
-                      <td>5</td>
-                      <td>Baie Bleue</td>
-                  </tr>
+                      <td class="text-left title-color-">
+                        
+                      </td>
+                      <td></td>
+                                            <td>
+                        No Quest/Npc Found
+                      </td>
+                                        </tr>
                                     <tr>
-                      <td class="text-left"><a href="missions/1001--niv-07-entrainement-2.html">Niv. 07 Entraînement 2</a></td>
-                      <td>5</td>
-                      <td>Baie Bleue</td>
-                  </tr>
+                      <td class="text-left title-color-">
+                        
+                      </td>
+                      <td></td>
+                                            <td>
+                        No Quest/Npc Found
+                      </td>
+                                        </tr>
                                     <tr>
-                      <td class="text-left"><a href="missions/1002--niv-08-entrainement-3.html">Niv. 08 Entraînement 3</a></td>
-                      <td>5</td>
-                      <td>Baie Bleue</td>
-                  </tr>
+                      <td class="text-left title-color-">
+                        
+                      </td>
+                      <td></td>
+                                            <td>
+                        No Quest/Npc Found
+                      </td>
+                                        </tr>
                                     <tr>
-                      <td class="text-left"><a href="missions/1003--niv-08-entrainement-4.html">Niv. 08 Entraînement 4</a></td>
-                      <td>5</td>
-                      <td>Baie Bleue</td>
-                  </tr>
+                      <td class="text-left title-color-">
+                        
+                      </td>
+                      <td></td>
+                                            <td>
+                        No Quest/Npc Found
+                      </td>
+                                        </tr>
                                     <tr>
-                      <td class="text-left"><a href="missions/1004--niv-09-entrainement-5.html">Niv. 09 Entraînement 5</a></td>
-                      <td>5</td>
-                      <td>Baie Bleue</td>
-                  </tr>
+                      <td class="text-left title-color-">
+                        
+                      </td>
+                      <td></td>
+                                            <td>
+                        No Quest/Npc Found
+                      </td>
+                                        </tr>
                                     <tr>
-                      <td class="text-left"><a href="missions/1005--niv-06-vaisseau-vers-l-ile-1.html">Niv. 06 Vaisseau vers l&#039;Île 1</a></td>
-                      <td>5</td>
-                      <td>Baie Bleue</td>
-                  </tr>
+                      <td class="text-left title-color-">
+                        
+                      </td>
+                      <td></td>
+                                            <td>
+                        No Quest/Npc Found
+                      </td>
+                                        </tr>
                                     <tr>
-                      <td class="text-left"><a href="missions/1006--niv-06-vaisseau-vers-l-ile-2.html">Niv. 06 Vaisseau vers l&#039;Île 2</a></td>
-                      <td>5</td>
-                      <td>Baie Bleue</td>
-                  </tr>
+                      <td class="text-left title-color-">
+                        
+                      </td>
+                      <td>Capacité du titre : Toutes les défenses + 2 % de résistance à la glace + 2 %</td>
+                                            <td>
+                        No Quest/Npc Found
+                      </td>
+                                        </tr>
                                     <tr>
-                      <td class="text-left"><a href="missions/1007--niv-07-vaisseau-vers-l-ile-3.html">Niv. 07 Vaisseau vers l&#039;Île 3</a></td>
-                      <td>5</td>
-                      <td>Baie Bleue</td>
-                  </tr>
+                      <td class="text-left title-color-">
+                        
+                      </td>
+                      <td></td>
+                                            <td>
+                        No Quest/Npc Found
+                      </td>
+                                        </tr>
                                     <tr>
-                      <td class="text-left"><a href="missions/1008--niv-08-vaisseau-vers-l-ile-4.html">Niv. 08 Vaisseau vers l&#039;Île 4</a></td>
-                      <td>5</td>
-                      <td>Baie Bleue</td>
-                  </tr>
+                      <td class="text-left title-color-">
+                        
+                      </td>
+                      <td></td>
+                                            <td>
+                        No Quest/Npc Found
+                      </td>
+                                        </tr>
                                     <tr>
-                      <td class="text-left"><a href="missions/1009--niv-08-les-besoins-du-marchand.html">Niv. 08 Les besoins du Marchand</a></td>
-                      <td>6</td>
-                      <td>Baie Bleue</td>
-                  </tr>
+                      <td class="text-left title-color-">
+                        
+                      </td>
+                      <td></td>
+                                            <td>
+                        No Quest/Npc Found
+                      </td>
+                                        </tr>
                                     <tr>
-                      <td class="text-left"><a href="missions/1010--niv-09-paix-sur-la-cote.html">Niv. 09 Paix sur la Côte</a></td>
-                      <td>6</td>
-                      <td>Baie Bleue</td>
-                  </tr>
+                      <td class="text-left title-color-">
+                        
+                      </td>
+                      <td></td>
+                                            <td>
+                        No Quest/Npc Found
+                      </td>
+                                        </tr>
                                     <tr>
-                      <td class="text-left"><a href="missions/1011--niv-10-armee-de-kaslow-1.html">Niv. 10 Armée de Kaslow 1</a></td>
-                      <td>9</td>
-                      <td>Ville Royale de Kaslow</td>
-                  </tr>
+                      <td class="text-left title-color-">
+                        
+                      </td>
+                      <td></td>
+                                            <td>
+                        No Quest/Npc Found
+                      </td>
+                                        </tr>
                                     <tr>
-                      <td class="text-left"><a href="missions/1012--niv-10-armee-de-kaslow-2.html">Niv. 10 Armée de Kaslow 2</a></td>
-                      <td>9</td>
-                      <td>Librairie des Arcanes</td>
-                  </tr>
+                      <td class="text-left title-color-">
+                        
+                      </td>
+                      <td></td>
+                                            <td>
+                        No Quest/Npc Found
+                      </td>
+                                        </tr>
                                     <tr>
-                      <td class="text-left"><a href="missions/1013--niv-11-armee-de-kaslow-3.html">Niv. 11 Armée de Kaslow 3</a></td>
-                      <td>9</td>
-                      <td>Ville Royale de Kaslow</td>
-                  </tr>
+                      <td class="text-left title-color-">
+                        
+                      </td>
+                      <td></td>
+                                            <td>
+                        No Quest/Npc Found
+                      </td>
+                                        </tr>
                                     <tr>
-                      <td class="text-left"><a href="missions/1014--niv-11-armee-de-kaslow-4.html">Niv. 11 Armée de Kaslow 4</a></td>
-                      <td>10</td>
-                      <td>Ville Royale de Kaslow</td>
-                  </tr>
+                      <td class="text-left title-color-">
+                        
+                      </td>
+                      <td></td>
+                                            <td>
+                        No Quest/Npc Found
+                      </td>
+                                        </tr>
                                     <tr>
-                      <td class="text-left"><a href="missions/1015--niv-12-armee-de-kaslow-5.html">Niv. 12 Armée de Kaslow 5</a></td>
-                      <td>10</td>
-                      <td>Ville Royale de Kaslow</td>
-                  </tr>
+                      <td class="text-left title-color-">
+                        
+                      </td>
+                      <td></td>
+                                            <td>
+                        No Quest/Npc Found
+                      </td>
+                                        </tr>
                                     <tr>
-                      <td class="text-left"><a href="missions/1016--niv-13-armee-de-kaslow-6.html">Niv. 13 Armée de Kaslow 6</a></td>
-                      <td>10</td>
-                      <td>Ville Royale de Kaslow</td>
-                  </tr>
+                      <td class="text-left title-color-">
+                        
+                      </td>
+                      <td></td>
+                                            <td>
+                        No Quest/Npc Found
+                      </td>
+                                        </tr>
                                     <tr>
-                      <td class="text-left"><a href="missions/1017--niv-13-test-de-garde-chasse-1.html">Niv. 13 Test de Garde-Chasse 1</a></td>
-                      <td>11</td>
-                      <td>Plaine de Kaslow</td>
-                  </tr>
+                      <td class="text-left title-color-">
+                        
+                      </td>
+                      <td></td>
+                                            <td>
+                        No Quest/Npc Found
+                      </td>
+                                        </tr>
                                     <tr>
-                      <td class="text-left"><a href="missions/1018--niv-14-test-de-garde-chasse-2.html">Niv. 14 Test de Garde-Chasse 2</a></td>
-                      <td>11</td>
-                      <td>Plaine de Kaslow</td>
-                  </tr>
+                      <td class="text-left title-color-">
+                        
+                      </td>
+                      <td></td>
+                                            <td>
+                        No Quest/Npc Found
+                      </td>
+                                        </tr>
                                     <tr>
-                      <td class="text-left"><a href="missions/1019--niv-14-test-de-garde-chasse-3.html">Niv. 14 Test de Garde-Chasse 3</a></td>
-                      <td>11</td>
-                      <td>Plaine de Kaslow</td>
-                  </tr>
+                      <td class="text-left title-color-">
+                        
+                      </td>
+                      <td></td>
+                                            <td>
+                        No Quest/Npc Found
+                      </td>
+                                        </tr>
                                     <tr>
-                      <td class="text-left"><a href="missions/1020--niv-15-test-de-garde-chasse-4.html">Niv. 15 Test de Garde-Chasse 4</a></td>
-                      <td>11</td>
-                      <td>Plaine de Kaslow</td>
-                  </tr>
+                      <td class="text-left title-color-">
+                        
+                      </td>
+                      <td></td>
+                                            <td>
+                        No Quest/Npc Found
+                      </td>
+                                        </tr>
                                     <tr>
-                      <td class="text-left"><a href="missions/1021--niv-11-la-lettre-volee.html">Niv. 11 La Lettre Volée</a></td>
-                      <td>9</td>
-                      <td>Plaine de Kaslow</td>
-                  </tr>
+                      <td class="text-left title-color-">
+                        
+                      </td>
+                      <td></td>
+                                            <td>
+                        No Quest/Npc Found
+                      </td>
+                                        </tr>
                                     <tr>
-                      <td class="text-left"><a href="missions/1022--niv-11-vengeance-du-duc-1.html">Niv. 11 Vengeance du Duc 1</a></td>
-                      <td>9</td>
-                      <td>Plaine de Kaslow</td>
-                  </tr>
+                      <td class="text-left title-color-">
+                        
+                      </td>
+                      <td></td>
+                                            <td>
+                        No Quest/Npc Found
+                      </td>
+                                        </tr>
                                     <tr>
-                      <td class="text-left"><a href="missions/1023--niv-13-vengeance-du-duc-2.html">Niv. 13 Vengeance du Duc 2</a></td>
-                      <td>9</td>
-                      <td>Plaine de Kaslow</td>
-                  </tr>
+                      <td class="text-left title-color-">
+                        
+                      </td>
+                      <td></td>
+                                            <td>
+                        No Quest/Npc Found
+                      </td>
+                                        </tr>
                                     <tr>
-                      <td class="text-left"><a href="missions/1024--niv-14-vengeance-du-duc-3.html">Niv. 14 Vengeance du Duc 3</a></td>
-                      <td>9</td>
-                      <td>Plaine de Kaslow</td>
-                  </tr>
+                      <td class="text-left title-color-">
+                        
+                      </td>
+                      <td></td>
+                                            <td>
+                        No Quest/Npc Found
+                      </td>
+                                        </tr>
                                     <tr>
-                      <td class="text-left"><a href="missions/1025--niv-12-la-tannerie-repet.html">Niv. 12 La Tannerie (répét.)</a></td>
-                      <td>10</td>
-                      <td>Plaine de Kaslow</td>
-                  </tr>
+                      <td class="text-left title-color-">
+                        
+                      </td>
+                      <td></td>
+                                            <td>
+                        No Quest/Npc Found
+                      </td>
+                                        </tr>
                                     <tr>
-                      <td class="text-left"><a href="missions/1026--niv-16-serum-repet.html">Niv. 16 Sérum (répét.)</a></td>
-                      <td>15</td>
-                      <td>Plaine de Kaslow</td>
-                  </tr>
+                      <td class="text-left title-color-">
+                        
+                      </td>
+                      <td></td>
+                                            <td>
+                        No Quest/Npc Found
+                      </td>
+                                        </tr>
                                     <tr>
-                      <td class="text-left"><a href="missions/1027--niv-14-les-gobelins-repet.html">Niv. 14 Les gobelins (répét.)</a></td>
-                      <td>13</td>
-                      <td>Plaine de Kaslow</td>
-                  </tr>
+                      <td class="text-left title-color-">
+                        
+                      </td>
+                      <td></td>
+                                            <td>
+                        No Quest/Npc Found
+                      </td>
+                                        </tr>
                                     <tr>
-                      <td class="text-left"><a href="missions/1028--niv-11-plume-blanche.html">Niv. 11 Plume Blanche</a></td>
-                      <td>9</td>
-                      <td>Plaine de Kaslow</td>
-                  </tr>
+                      <td class="text-left title-color-3">
+                        
+                      </td>
+                      <td></td>
+                                            <td>
+                        <a href="missions/6786--l15-delicieuse-livraison-a-domicile-repetition.html">L15. Délicieuse livraison à domicile (répétition)</a>
+                      </td>
+                                        </tr>
                                     <tr>
-                      <td class="text-left"><a href="missions/1029--niv-15-sources-de-desir.html">Niv. 15 Sources de Désir</a></td>
-                      <td>13</td>
-                      <td>Plaine de Kaslow</td>
-                  </tr>
+                      <td class="text-left title-color-">
+                        
+                      </td>
+                      <td></td>
+                                            <td>
+                        No Quest/Npc Found
+                      </td>
+                                        </tr>
                                     <tr>
-                      <td class="text-left"><a href="missions/1030--niv-16-commission-de-caret.html">Niv. 16 Commission de Caret</a></td>
-                      <td>15</td>
-                      <td>Plaine de Kaslow</td>
-                  </tr>
+                      <td class="text-left title-color-">
+                        
+                      </td>
+                      <td></td>
+                                            <td>
+                        No Quest/Npc Found
+                      </td>
+                                        </tr>
                                     <tr>
-                      <td class="text-left"><a href="missions/1031--niv-20-aider-l-expedition-1.html">Niv. 20 Aider l&#039;Expédition 1</a></td>
-                      <td>18</td>
-                      <td>Forêt des Sprites</td>
-                  </tr>
+                      <td class="text-left title-color-10">
+                        *Festival d&#039;Hiver* Gage de Gratitude
+                      </td>
+                      <td></td>
+                                            <td>
+                        No Quest/Npc Found
+                      </td>
+                                        </tr>
                                     <tr>
-                      <td class="text-left"><a href="missions/1032--niv-20-aider-l-expedition-2.html">Niv. 20 Aider l&#039;Expédition 2</a></td>
-                      <td>18</td>
-                      <td>Forêt des Sprites</td>
-                  </tr>
+                      <td class="text-left title-color-10">
+                        *Festival d&#039;Hiver* Héros de l&#039;Hiver
+                      </td>
+                      <td></td>
+                                            <td>
+                        No Quest/Npc Found
+                      </td>
+                                        </tr>
                                     <tr>
-                      <td class="text-left"><a href="missions/1033--niv-21-aider-l-expedition-3.html">Niv. 21 Aider l&#039;Expédition 3</a></td>
-                      <td>18</td>
-                      <td>Forêt des Sprites</td>
-                  </tr>
+                      <td class="text-left title-color-10">
+                        *Festival d&#039;Hiver* Médaille d&#039;Argent de la Gloire
+                      </td>
+                      <td></td>
+                                            <td>
+                        No Quest/Npc Found
+                      </td>
+                                        </tr>
                                     <tr>
-                      <td class="text-left"><a href="missions/1034--niv-22-aider-l-expedition-4.html">Niv. 22 Aider l&#039;Expédition 4</a></td>
-                      <td>19</td>
-                      <td>Forêt des Sprites</td>
-                  </tr>
+                      <td class="text-left title-color-10">
+                        *Festival d&#039;Hiver* Médaille d&#039;Argent du Travail en Équipe
+                      </td>
+                      <td></td>
+                                            <td>
+                        No Quest/Npc Found
+                      </td>
+                                        </tr>
                                     <tr>
-                      <td class="text-left"><a href="missions/1035--niv-22-aider-l-expedition-5.html">Niv. 22 Aider l&#039;Expédition 5</a></td>
-                      <td>19</td>
-                      <td>Forêt des Sprites</td>
-                  </tr>
+                      <td class="text-left title-color-10">
+                        *Festival d&#039;Hiver* Médaille d&#039;Or de la Suprématie
+                      </td>
+                      <td></td>
+                                            <td>
+                        No Quest/Npc Found
+                      </td>
+                                        </tr>
                                     <tr>
-                      <td class="text-left"><a href="missions/1036--niv-23-aider-l-expedition-6.html">Niv. 23 Aider l&#039;Expédition 6</a></td>
-                      <td>19</td>
-                      <td>Forêt des Sprites</td>
-                  </tr>
+                      <td class="text-left title-color-10">
+                        *Festival d&#039;Hiver* Médaille d&#039;Or du Travail en Équipe
+                      </td>
+                      <td></td>
+                                            <td>
+                        No Quest/Npc Found
+                      </td>
+                                        </tr>
                                     <tr>
-                      <td class="text-left"><a href="missions/1037--niv-22-sprite-cyerfu-1.html">Niv. 22 Sprite Cyerfu 1</a></td>
-                      <td>21</td>
-                      <td>Forêt des Sprites</td>
-                  </tr>
+                      <td class="text-left title-color-10">
+                        *Festival d&#039;Hiver* Médaille de Bronze de l&#039;Honneur
+                      </td>
+                      <td></td>
+                                            <td>
+                        No Quest/Npc Found
+                      </td>
+                                        </tr>
                                     <tr>
-                      <td class="text-left"><a href="missions/1038--niv-23-sprite-cyerfu-2.html">Niv. 23 Sprite Cyerfu 2</a></td>
-                      <td>21</td>
-                      <td>Forêt des Sprites</td>
-                  </tr>
+                      <td class="text-left title-color-10">
+                        *Festival d&#039;Hiver* Médaille de Bronze du Travail en Équipe
+                      </td>
+                      <td></td>
+                                            <td>
+                        No Quest/Npc Found
+                      </td>
+                                        </tr>
                                     <tr>
-                      <td class="text-left"><a href="missions/1039--niv-24-sprite-cyerfu-3.html">Niv. 24 Sprite Cyerfu 3</a></td>
-                      <td>21</td>
-                      <td>Forêt des Sprites</td>
-                  </tr>
+                      <td class="text-left title-color-10">
+                        *Festival d&#039;Hiver* Porte-Bonheur
+                      </td>
+                      <td></td>
+                                            <td>
+                        No Quest/Npc Found
+                      </td>
+                                        </tr>
                                 </tbody>
           </table>
+          </div>
           <div class="index-list-bottom">
              <ul class="pagination justify-content-end" role="navigation">
     
@@ -676,32 +814,31 @@
     
     
                         <li class="page-item  active">
-                <a class="page-link" href="missions2679.html?page=1">1</a>
+                <a class="page-link" href="titles2679.html?page=1">1</a>
             </li>
                     <li class="page-item ">
-                <a class="page-link" href="missions4658.html?page=2">2</a>
+                <a class="page-link" href="titles4658.html?page=2">2</a>
             </li>
                     <li class="page-item ">
-                <a class="page-link" href="missions9ba9.html?page=3">3</a>
+                <a class="page-link" href="titles9ba9.html?page=3">3</a>
             </li>
                     <li class="page-item ">
-                <a class="page-link" href="missionsfdb0.html?page=4">4</a>
+                <a class="page-link" href="titlesfdb0.html?page=4">4</a>
             </li>
                                 
             <li class="page-item disabled" aria-disabled="true"><span class="page-link">...</span></li>
                 <li class="page-item">
-            <a class="page-link" href="missions0e14.html?page=127">127</a>
+            <a class="page-link" href="titles7537.html?page=19">19</a>
         </li>
     
     
             <li class="page-item">
-            <a class="page-link" href="missions4658.html?page=2" rel="next" aria-label="Next &raquo;">&rsaquo;</a>
+            <a class="page-link" href="titles4658.html?page=2" rel="next" aria-label="Next &raquo;">&rsaquo;</a>
         </li>
     </ul>
 
           </div>
 
-      </div>
       </div>
   </div>	</div>
 <footer>
@@ -1166,5 +1303,5 @@ $("#strengthValue").change(function() {
 </body>
 
 
-<!-- Mirrored from www.grandfantasia-db.com/fr/missions by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 24 Apr 2023 08:10:49 GMT -->
+<!-- Mirrored from www.grandfantasia-db.com/fr/titles by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 24 Apr 2023 08:12:48 GMT -->
 </html>
